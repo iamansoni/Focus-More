@@ -1,5 +1,5 @@
-# SiteBlocker extension for Google Chrome
-An open source, site blocking/filtering extension for Google Chrome. Version 0.3.
+# Focus More - A Site Blocker extension for Google Chrome
+This is an open source, site blocking/filtering extension for Google Chrome made for the submission of **COURSE: PROJ-CSE-322G**, part of the curriculum of B.Tech in Computer Science & Engineering from [CRS-SIET, Jhajjar](http://crssietjhajjar.ac.in/).
 
 ## How to install?
 - Download the full directory
@@ -15,5 +15,3 @@ An open source, site blocking/filtering extension for Google Chrome. Version 0.3
 - You can set up a timer, that will switch the blocking on for a certain amount of time. During that time, it will be impossible to toggle filtering off or change the duration. You can find timer settings in "Timer mode setup" tab of the menu.
 - If you happen to reinstall the extension, the list your blocked sites will be kept safe and waiting. You can then decide if you want to apply it or not.
 
-## Feedback
-For all the feedback feel free to email baniecki.jan(at)gmail.com or jaroslaw.szymukowicz(at)gmail.com
