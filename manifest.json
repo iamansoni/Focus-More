@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "SiteBlocker",
+  "name": "Focus More",
   "description": "This extension allows the user to block choosen sites from beeing loaded.",
-  "version": "0.3",
+  "version": "0.1",
   "options_page": "options.html",
   
   "background": {
